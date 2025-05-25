@@ -5,7 +5,7 @@
 
 </p>
 
-# EpubReader 
+# NoveLightReader韵书
 
 <!-- <a href="https://github.com/mignaway/EpubReader/releases/download/v1.0.1/Setup.v1.0.1.exe"><img src="https://user-images.githubusercontent.com/40722616/187921781-d02952a2-f3e2-4c2f-9b67-718994b0f49a.svg"></a> -->
 <a href="https://github.com/mignaway/EpubReader/releases/download/v1.0.6/EpubReader.Setup.1.0.6.exe"><img src="https://img.shields.io/badge/v1.0.6-Download-41D147"></a>
